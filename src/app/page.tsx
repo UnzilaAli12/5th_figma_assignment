@@ -22,7 +22,7 @@ const Homepage = () => {
       <button className="w-[270px] h-[58px] absolute top-[730px] left-[176px] font-serif font-medium text-[25px] leading-[37.5px] bg-[#A29875] text-[#FFFFFF]  p-[10px] gap-[10px] rounded-[10px] md:top-[650px] md:left-[20px] md:text-[20px] md:w-[200px] sm:top-[600px] sm:left-[10px] sm:w-[180px] sm:text-[18px]   " >
       Explore Now
       </button>
-<div className="absolute top-[198px] left-[60%] md:top-[150px] sm:top-[100px] sm:w-[80%] sm:h-auto " >
+<div className="absolute top-[198px] left-[60%] md:top-[150px] sm:top-[100px] sm:w-[80%] sm:h-[647px]" >
       <Image 
       src={"/next_image.svg"}
       alt={"image"}
