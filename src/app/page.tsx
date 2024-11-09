@@ -10,7 +10,7 @@ const Homepage = () => {
       </div>
 
       <h1 className="w-[496px] h-[189px] absolute top-[316px] left-[176px] font-serif font-bold text-[40px] leading-[65.8px] tracking-[2.5%] text-[#000000] ">
-        IMPECCABLE </br> CRAFTSMANSHIP AND <br /> FINESSE
+        IMPECCABLE <br/> CRAFTSMANSHIP AND <br /> FINESSE
       </h1>
 
       <p className=" w-[902px] h-[147px] absolute top-[533px] left-[171px] font-serif font-medium text-[30px] leading-[49.35px] tracking-[2.5%] text-[#787054]   ">
